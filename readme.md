@@ -1,4 +1,4 @@
-The script is designed to convert files from PNG to ZhSS.
+The script is designed to convert files from PNG to JSON
 For Python 3.5+
 Before you begin, install the dependencies:
   pip install -r  requirements.txt
